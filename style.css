@@ -1,13 +1,42 @@
 h1{
-    background-color: burlywood;
+    text-align: center;
+    background-color: rgb(200, 164, 255);
+    border: 3px solid red;
+}
+i{
+    color: brown;
+}
+h3{
+    color: green;
+
+}
+.zoo{
+    color: green;
+    background-color: gold;
     text-align: center;
 }
-
-label{
-    color: gold;
-    
-}
-
-form{
+.text{
+    color: green;
+    background-color: gold;
     text-align: center;
+}
+.zoom{
+    background-color: green;
+    color: white;
+}
+.zoon{
+    color: white;
+    background-color: blue;
+}
+td{
+    background-color: black;
+    color: white;
+}
+.text{
+    background-color: brown;
+    color: white;
+}
+.text{
+    color: white;
+    background-color: brown;
 }
